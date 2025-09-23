@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858705391307",
+    "project_id": "latihan-kuis-23si2",
+    "storage_bucket": "latihan-kuis-23si2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858705391307:android:19e7eefc002992b3c5754e",
+        "android_client_info": {
+          "package_name": "edu.uph.m23si3.latihankuis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX4-FwVrKUOkUwjmuJ4EQalkXEf7IfFLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
