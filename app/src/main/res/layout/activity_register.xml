@@ -24,16 +24,37 @@
             android:textStyle="bold"
             android:textSize="20dp"/>
         <EditText
+            android:id="@+id/edtNama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nama Lengkap"/>
+        <EditText
+            android:id="@+id/edtStudentID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="StudentID"/>
+        <EditText
+            android:id="@+id/edtTempatLahir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Tempat Lahir"/>
+        <EditText
+            android:id="@+id/edtTanggalLahir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="date"
+            android:hint="Tanggal Lahir"/>
+        <EditText
             android:id="@+id/edtEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="email"/>
+            android:hint="Email"/>
         <EditText
             android:id="@+id/edtPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="numberPassword"
-            android:hint="password"/>
+            android:hint="Password"/>
         <Button
             android:id="@+id/btnRegister"
             android:layout_width="match_parent"
